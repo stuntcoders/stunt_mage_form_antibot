@@ -1,2 +1,4 @@
-app/code/community/StuntCoders/FormAntiBot      app/code/community/StuntCoders/FormAntiBot/
-app/etc/modules/*                                     app/etc/modules/
+app/code/community/StuntCoders/FormAntiBot                      app/code/community/StuntCoders/FormAntiBot/
+app/design/frontend/base/default/layout/stuntcoders/*           app/design/frontend/base/default/template/layout/
+app/design/frontend/base/default/template/stuntcoders/*         app/design/frontend/base/default/template/stuntcoders/
+app/etc/modules/*                                               app/etc/modules/
