@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <customer_account_create>
+        <reference name="customer_form_register">
+            <block type="core/text_list" name="form.additional.info">
+                <block type="core/template" name="formantibot.empty.input" template="stuntcoders/formantibot/emptyinput.phtml"/>
+            </block>
+        </reference>
+    </customer_account_create>
+</layout>
